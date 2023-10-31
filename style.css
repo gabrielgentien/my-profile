@@ -1,0 +1,85 @@
+body {
+    background-color: #F1F5FA;
+}
+
+div.first-box {
+    background-color: #FFFFFF;
+    width: 600px;
+    height: 550px;
+    border: 10 px grey;
+    margin: 20px;
+    position: center;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+div.second-box {
+    background-color: #FFFFFF;
+    width: 600px;
+    height: 150px;
+    border: 10 px grey;
+    margin: 20px;
+    position: center;
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+div.third-box {
+    background-color: #FFFFFF;
+    width: 600px;
+    height: 150px;
+    border: 10 px grey;
+    margin: 20px;
+    position: relative;
+    text-align: relative;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    justify-content: space-between;
+}
+
+
+img {
+    border-radius: 50%;
+}
+
+.button {
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.second-button {
+    background-color: #F0F0F2;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button1 {border-radius: 4px}
+.button1 {padding: 15px 32px}
+.button1 {font-size: 16px}
+
+a:link {
+    text-decoration: none;
+}
+
+a {
+    color: white;
+}
+
+.button2 {border-radius: 4px}
+.button2 {padding: 15px 12px}
+.button2 {color: grey}
+
+
+
